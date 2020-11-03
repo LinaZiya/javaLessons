@@ -1,2 +1,2 @@
-# javaLessons
+# java
 Homework
